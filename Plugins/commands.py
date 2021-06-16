@@ -22,7 +22,7 @@ start_button=InlineKeyboardMarkup(
                   InlineKeyboardButton("📄 BOT STATUS", callback_data = "status_data")
               ], 
               [
-                  InlineKeyboardButton("📫 UPDATES", url = "https://t.me/Ts_bots"), 
+                  InlineKeyboardButton("📫 UPDATES", url = "https://t.me/SCProjectsLK"), 
                   InlineKeyboardButton("📕 ABOUT", callback_data = "about_data")
               ], 
               [
