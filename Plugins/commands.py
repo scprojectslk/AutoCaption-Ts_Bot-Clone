@@ -162,7 +162,7 @@ async def button(bot, cmd: CallbackQuery):
                         InlineKeyboardButton("📄 BOT STATUS", callback_data = "status_data")
                        ], 
                        [
-                        InlineKeyboardButton("📫 UPDATES", url="https://t.me/ts_bots"),
+                        InlineKeyboardButton("📫 UPDATES", url="https://t.me/SCProjectsLK"),
                         InlineKeyboardButton("📕 ABOUT ME", callback_data="about_data")
                        ],
                        [
